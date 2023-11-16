@@ -11,10 +11,13 @@ canvas {
   font-family: "Heavy Metal Blight", sans-serif;
   text-align: center;
   color: white;
+  background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0, 0, 0, 0) 0%, rgba(0,212,255,1) 52%, rgba(0, 0, 0, 0) 100%);
+
 }
 
 .imagery {
-  margin-left: 30%;
+  margin-left: 40%;
 }
 
 .controls {
@@ -32,4 +35,9 @@ canvas {
 }
 body {
   background-color: #1c2833;
+}
+.creator{
+  color: white;
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: xx-small;
 }

@@ -12,7 +12,7 @@ function startGame() {
 var myGameArea = {
     canvas: document.createElement("canvas"),                                   // Create a new canvas element
     start: function () {
-        this.canvas.width = 1580;                                               // Set the width of the canvas
+        this.canvas.width = 1510;                                               // Set the width of the canvas
         this.canvas.height = 270;                                               // Set the height of the canvas
         this.context = this.canvas.getContext("2d");
         document.body.insertBefore(this.canvas, document.body.childNodes[0]);   // Insert the canvas into the document body
