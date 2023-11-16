@@ -1,13 +1,16 @@
 @import url("https://fonts.cdnfonts.com/css/heavy-metal-blight");
 
 canvas {
-  border: 1px solid #d3d3d3;
+  border: 5px solid white;
   background-color: #f1f1f1;
+  background-image: url(https://i.pinimg.com/736x/5b/d1/70/5bd170bb4655992be36d6034b35224fd.jpg);
+  box-shadow: 0 0 5px 0 color white;
 }
 
 .balls {
   font-family: "Heavy Metal Blight", sans-serif;
   text-align: center;
+  color: white;
 }
 
 .imagery {
@@ -15,14 +18,18 @@ canvas {
 }
 
 .controls {
-    font-family: 'Arial', sans-serif;
-    font-size: 16px;
-    line-height: 1.5;
-    color: #fff; 
-    max-width: 300px; 
-    margin: 0 auto; 
-    text-align: left;
-    padding: 20px;
-    background-color: #000; 
-    border-radius: 8px;
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: hsl(0, 0%, 100%);
+  max-width: 300px;
+  margin: 0 auto;
+  text-align: left;
+  padding: 20px;
+  background-color: #000;
+  border-radius: 8px;
+  border-color: white;
+}
+body {
+  background-color: #1c2833;
 }
