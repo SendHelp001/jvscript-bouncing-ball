@@ -1,16 +1,28 @@
-@import url('https://fonts.cdnfonts.com/css/heavy-metal-blight');
+@import url("https://fonts.cdnfonts.com/css/heavy-metal-blight");
 
 canvas {
-    border:1px solid #d3d3d3;
-    background-color: #f1f1f1;
+  border: 1px solid #d3d3d3;
+  background-color: #f1f1f1;
 }
 
-.balls{
-    font-family: 'Heavy Metal Blight', sans-serif;
-    text-align: center;
+.balls {
+  font-family: "Heavy Metal Blight", sans-serif;
+  text-align: center;
 }
 
-.imagery{
+.imagery {
+  margin-left: 30%;
+}
 
-   margin-left: 30%;
+.controls {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #fff; 
+    max-width: 300px; 
+    margin: 0 auto; 
+    text-align: left;
+    padding: 20px;
+    background-color: #000; 
+    border-radius: 8px;
 }
