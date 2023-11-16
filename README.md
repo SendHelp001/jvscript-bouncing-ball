@@ -1,7 +1,7 @@
 # jvscript-bouncing-ball
 
 liveserver:
-https://sendhelp001.github.io/jvscript-bouncing-ball/
+[https://sendhelp001.github.io/jvscript-bouncing-ball/](https://raw.githack.com/SendHelp001/jvscript-bouncing-ball/main/index.html)
 
 ❓ A short program using javascript to make a bouncing ball
 
